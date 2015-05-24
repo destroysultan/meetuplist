@@ -5,6 +5,10 @@ body {background-color: #FFF;}
     padding-top: 3%;
 }
 
-.panel-body p {
-    font-weight: bold;
+.panel-body {
+    margin-bottom: 0%;
+}
+
+#warning {
+    margin-bottom: 0%;
 }
